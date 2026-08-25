@@ -1,5 +1,11 @@
 {
-  "version": "0.9.0-beta.12",
+  "schemaVersion": 1,
+  "sequence": 13,
+  "version": "0.9.0-beta.13",
   "channel": "beta",
-  "downloadUrl": "https://github.com/krystianjanicki/lead-radar-releases/releases/download/v0.9.0-beta.12/Lead-Radar-Setup-0.9.0-beta.12.exe"
+  "publishedAt": "2026-08-25T12:36:07.249Z",
+  "downloadUrl": "https://github.com/krystianjanicki/lead-radar-releases/releases/download/v0.9.0-beta.13/Lead-Radar-Setup-0.9.0-beta.13.exe",
+  "sha256": "A955403FC62E865457CF984DFCDD904575C21DD2DCBC603B5072BC29EBCCA448",
+  "size": 101690368,
+  "signature": "9dPtYzzFS24qctLSgQkRoeuasfs+2+TuLFXcRuJhDAMxbAY+Hdt95xbqrKXnFczPMN6/H8sAZGVOIZXxdOJdDA=="
 }
